@@ -24,6 +24,12 @@ Blender系
 http://krlab.info.kochi-tech.ac.jp/kurihara/lecture/cg/BlenderWeb_Hayashi/html/index.html
 
 
+VRM系
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+https://qiita.com/Nekomasu/items/c0e52c4c7662cb8213c4
+
+http://omega.hatenadiary.jp/entry/2018/05/31/010201
 
 
 ■　作成工程（予想）
